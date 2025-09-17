@@ -1,2 +1,2 @@
 # tennis-ml
-Tennis game analysis using machine learning
+Tennis game analysis using machine learning, following abdullahtarek's tutorial
